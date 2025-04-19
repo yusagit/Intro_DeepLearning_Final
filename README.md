@@ -1,4 +1,4 @@
-Self-Attention GAN (SAGAN) implementation
+# Self-Attention GAN (SAGAN) implementation
 
 This repository contains an implementation of SAGAN (Self-Attention Generative Adversarial Network) using PyTorch.
 SAGAN introduces attention mechanisms into GANs, enabling each pixel to attend to all other pixels, improving image generation quality and global coherence. 
